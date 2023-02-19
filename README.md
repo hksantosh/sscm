@@ -1,2 +1,2 @@
 # sscm
-Strategic Supply Chain Management
+Strategic Supply Chain Management (IIT Roorkee / Coursera)
